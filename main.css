@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+.menu{
+    width: 150px;
+    height: 200px;
+    
+    list-style: none;
+    margin-right: 100%;
+}
+.texto{
+    font-family: sans-serif;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+}
+.texto:hover{
+    font-family: sans-serif;
+    list-style: none;
+    color: red;
+    font-size: 20px;
+
+}
+
+.cuadrotexto1{
+    background-color: aqua;
+    width: 1590px;
+    height: 300px;
+    border: 1px solid white;
+    margin: auto;
+    margin-left: 300px;
+}
+.cuadrotexto2{
+    background-color: green;
+    width: 1590px;
+    height: 300px;
+    border: 1px solid white;
+    margin: auto;
+    margin-left: 300px;
+}
+.cuadrotexto3{
+    background-color: rosybrown;
+    width: 1590px;
+    height: 300px;
+    border: 1px solid white;
+    margin: auto;
+    margin-left: 300px;
+}
+.cuadrotexto4{
+    background-color: palevioletred;
+    width: 1590px;
+    height: 300px;
+    border: 1px solid white;
+    margin: auto;
+    margin-left: 300px;
+}
+.titulocuadro{
+    font-family: sans-serif;
+    color: white;
+}
